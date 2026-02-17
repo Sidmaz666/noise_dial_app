@@ -1,0 +1,7 @@
+<svg width="432" height="432" viewBox="0 0 432 432" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified monochrome version for Android theming -->
+  <circle cx="216" cy="216" r="150" stroke="#000000" stroke-width="30"/>
+  <path d="M216 366 A150 150 0 1 1 216 66 A150 150 0 0 1 366 216" stroke="#000000" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="216" cy="216" r="100" stroke="#000000" stroke-width="10"/>
+  <path d="M216 290 L204 270 L228 270 Z" fill="#000000"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="200" fill="#0f172a"/>
+  <circle cx="512" cy="512" r="350" stroke="#1e293b" stroke-width="60"/>
+  <!-- Progress Arc -->
+  <path d="M512 862 A350 350 0 1 1 512 162 A350 350 0 0 1 862 512" stroke="url(#paint0_linear)" stroke-width="60" stroke-linecap="round"/>
+  <!-- Knob -->
+  <circle cx="512" cy="512" r="250" fill="#1e293b"/>
+  <circle cx="512" cy="512" r="250" stroke="#334155" stroke-width="10"/>
+  <!-- Marker -->
+  <path d="M512 700 L490 660 L534 660 Z" fill="#d919e6"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="512" y1="862" x2="862" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d919e6"/>
+      <stop offset="1" stop-color="#64b5f6"/>
+    </linearGradient>
+  </defs>
+</svg>
