@@ -140,10 +140,6 @@ This project adheres to strict code quality standards:
 - **Functional Components**: React Hooks (`useSharedValue`, `useAnimatedStyle`, `useCallback`).
 - **File Structure**: Feature-based organization within `components` and `services`.
 
-## License
-
-This project is private and proprietary.
-
 ## Credits
 
 - Built with [Expo](https://expo.dev)
